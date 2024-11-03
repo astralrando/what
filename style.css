@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+.main{
+    color: white;
+}
+.subtext{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.tiktok{
+    display: flex;
+    justify-content: center;
+}
+.youtube{
+    display: flex;
+    justify-content: center;
+}
+.links__subtitle{
+    display: flex;
+    justify-content: center;
+}
